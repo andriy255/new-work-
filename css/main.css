@@ -1,3 +1,21 @@
 h1{
     color:red;
 }
+
+h2{
+   color:blue
+
+}
+
+img{
+   width:300px;
+   border:1px solid black;
+}
+
+p{
+  color:green;
+  font-family:verdana;
+}
+
+
+
